@@ -4,9 +4,11 @@ version = "0.1.0"
 description = "Explore Machine Learning through Kaggle"
 authors = ["Edwin P. Magezi <edwinm_p@yahoo.com>"]
 readme = "README.md"
+packages = [{include = "machine_learning"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+pandas = "^2.2.2"
 
 
 [build-system]

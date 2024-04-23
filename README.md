@@ -1,1 +1,1 @@
-# explore-machine-learning
+# Expore Machine Learning
